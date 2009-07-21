@@ -6,9 +6,9 @@ Tested up to: 2.8.1
 stable tag: 1.0
 
 == Description == 
-The keyword optimizer SEO plugin was developed so that important blog post keywords on a website could be optimized using the HTML <strong>, <em> and <u> tags. It allows the webmaster to select the keywords he/she wants to optimize from the administration panel and let’s them assign a limit to the number of times a chosen effect is applied to those keywords.
+The keyword optimizer SEO plugin was developed so that important blog post keywords on a website could be optimized using the HTML <strong>, <em> and <u> tags. It allows the webmaster to select the keywords he/she wants to optimize from the administration panel and let's them assign a limit to the number of times a chosen effect is applied to those keywords.
 
-To demonstrate an example of this SEO plugin, if "articles" is an important keyword on a website than the webmaster can choose to surround this keyword around the <strong> tag. Using this plugin, the webmaster would need to enter this keyword into the <strong> set under the administration panel and all references to the word ‘articles’ in a given post will be automatically placed inside the <strong> tag. The limit feature provided by the plugin lets the webmaster control the number of times this effect would be applied to that keyword. If suppose the limit is set to 2, then only the first two references to the word ‘articles’ will be effected.
+To demonstrate an example of this SEO plugin, if "articles" is an important keyword on a website than the webmaster can choose to surround this keyword around the <strong> tag. Using this plugin, the webmaster would need to enter this keyword into the <strong> set under the administration panel and all references to the word "articles" in a given post will be automatically placed inside the <strong> tag. The limit feature provided by the plugin lets the webmaster control the number of times this effect would be applied to that keyword. If suppose the limit is set to 2, then only the first two references to the word ‘articles’ will be effected.
 
 == Installation ==
 1. Upload the whole plugin folder to your /wp-content/plugins/ folder.
